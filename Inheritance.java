@@ -2,7 +2,7 @@ import java.util.*;
 public class Test {
 			public static  void main(String[] args) {
 			Child a = new Child();
-		    a.speak();
+			a.speak();
 			a.dance();
 			//Now it will go to the parent class as it does not have a sing function in the Child class
 			a.sing();
