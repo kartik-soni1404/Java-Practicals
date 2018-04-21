@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Test {
+public class Interface {
 			public static  void main(String[] args) {
 			Child a = new Child();
 		    a.speak();
