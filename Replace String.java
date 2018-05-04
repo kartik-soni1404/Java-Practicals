@@ -1,5 +1,5 @@
 import java.util.*;
-public class Replace String
+public class Replace_String
 		{
 			public static  void main(String[] args) 
 			{
